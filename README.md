@@ -33,6 +33,7 @@ Sort the array using the Insertion Sort algorithm:
 - **Worst case:** `O(n^2)`
 - **Best case:** `O(n)` (if the array is already sorted)
 - **Average case:** `O(n^2)`
+- **This case:** ` Average Case = O(n^2)`
 
 ### Notes:
 - `n` represents the number of elements in the array.
@@ -40,4 +41,4 @@ Sort the array using the Insertion Sort algorithm:
 
 ---
 
-**Author:** [Ahmet Yunus Turna]
+**Author:** Ahmet Yunus Turna
